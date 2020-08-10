@@ -1,0 +1,26 @@
+body {
+  background-color: #EAF6F6;
+}
+  h1{
+    color: rgb(3, 71, 71);
+}
+h3{
+    color: rgb(11, 156, 167);
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: slategrey;
+  border-width: 5px;
+  width: 5%;
+}
+img{ 
+  border-radius: 100%;
+  height:200px;
+  
+}
+
+img:hover {
+  background-color: gray;
+  padding: 1cm;
+}
